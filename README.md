@@ -1,8 +1,8 @@
 # Java Spring Boot Template for REST API
 
-[![CircleCI](https://circleci.com/gh/sergiopoliveira/book-recommendation-system.svg?style=svg)](https://circleci.com/gh/sergiopoliveira/book-recommendation-system)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/5b84bf2bcc5949338bb9806e35b4988e)](https://www.codacy.com/app/sergiopoliveira/book-recommendation-system?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=sergiopoliveira/book-recommendation-system&amp;utm_campaign=Badge_Grade)
-[![codecov](https://codecov.io/gh/sergiopoliveira/book-recommendation-system/branch/master/graph/badge.svg)](https://codecov.io/gh/sergiopoliveira/book-recommendation-system)
+[![CircleCI](https://circleci.com/gh/sergiopoliveira/java-spring-boot-template.svg?style=svg)](https://circleci.com/gh/sergiopoliveira/java-spring-boot-template)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/5b84bf2bcc5949338bb9806e35b4988e)](https://www.codacy.com/app/sergiopoliveira/java-spring-boot-template?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=sergiopoliveira/java-spring-boot-template&amp;utm_campaign=Badge_Grade)
+[![codecov](https://codecov.io/gh/sergiopoliveira/java-spring-boot-template/branch/master/graph/badge.svg)](https://codecov.io/gh/sergiopoliveira/java-spring-boot-template)
 
 One-line description of project.
 
