@@ -27,6 +27,8 @@ mvn spring-boot:run
 
 #### Docker
 
+[Public page from Docker Hub](https://hub.docker.com/r/sergiopoliveira/java-spring-boot-template)
+
 Pull image: 
 
 ```actuator 
